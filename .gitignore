@@ -1,0 +1,28 @@
+# Exclude any .exe files
+*.exe
+
+# Exclude any image files
+*.ico
+*.jpeg
+*.jpg
+*.png
+
+# Exclude any .spec files
+*.spec
+
+# Exclude the virtual environemnt
+.imagetensorsvenv/
+
+# Exclude the build folder
+build/
+
+# Exclude the dist folder (for compiled code)
+dist/
+
+# Ignore temporary files from IDEs
+*.log
+*.tmp
+.DS_Store
+
+# Exclude virtual environments
+venv/

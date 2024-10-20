@@ -1,0 +1,7 @@
+czifile==2019.7.2
+imagecodecs==2024.9.22
+numpy==2.1.2
+oiffile==2024.5.24
+pillow==11.0.0
+readlif==0.6.5
+tifffile==2024.9.20
