@@ -939,7 +939,7 @@ def main():
     """)
     print("This TIF converter converts Lif, Oib, Metamorph(nd) and CZI files to TIF files")
 
-    user_input = input("Enter the path to the image file or directory: ")
+    user_input = input("Enter the path to a single image file or directory: ")
 
     if not os.path.exists(user_input):
         print("The provided path or file does not exist.")

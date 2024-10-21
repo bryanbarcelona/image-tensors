@@ -24,5 +24,3 @@ dist/
 *.tmp
 .DS_Store
 
-# Exclude virtual environments
-venv/
